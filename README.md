@@ -1,4 +1,5 @@
-# flutter_app
+# 👗🛍 E-Shopping App
+## flutter_app
 
 A new Flutter application.
 
